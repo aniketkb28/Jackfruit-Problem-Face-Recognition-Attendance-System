@@ -1,8 +1,21 @@
-# Virtual environments
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
 venv/
 env/
-*.pyc
-__pycache__/
 
-# Logs/Data
+# IDE and Editor Cache Files (Recommended)
+.vscode/
+.idea/
+.DS_Store
+
+# PROJECT SPECIFIC FILES
+##################################
+# Attendance Logs (Crucial to ignore)
 attendance/
+
+# Registered Face Images (Ignore if you don't want images pushed)
+registered_faces/
