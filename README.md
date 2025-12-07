@@ -24,6 +24,19 @@ The system is highly effective for classroom, small office, or event entry loggi
 
 Ensure you have the following installed on your system:
 
+---
+
+## Mentor
+
+This project was developed under the guidance of:
+
+**AMBIKA K**
+Assistant Professor, Department of Computer Science and Engineering, PES University
+
+**Email:** amikak@pes.edu
+
+---
+
 * **Python 3.10** (Tested and works with this version)
 * **A functional Webcam**
 * **Registered_faces** (Folder containing all registered faces)
