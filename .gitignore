@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized files
 __pycache__/
 *.pyc
@@ -19,3 +20,13 @@ attendance/
 
 # Registered Face Images (Ignore if you don't want images pushed)
 registered_faces/
+=======
+# Virtual environments
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Logs/Data
+attendance/
+>>>>>>> b8fab78 (Add ignore rules for Python project artifacts)
