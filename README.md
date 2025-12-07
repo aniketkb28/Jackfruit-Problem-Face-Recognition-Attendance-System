@@ -1,6 +1,6 @@
 # Jackfruit-Problem-Face-Recognition-Attendance-System
 
-## 💡 Project Overview
+##  Project Overview
 
 This is a **Real-time Face Recognition Attendance System** designed to automate the process of tracking attendance using a standard webcam. Built with Python, OpenCV, and Tkinter, it provides a user-friendly GUI for monitoring attendance logs as they happen.
 
