@@ -30,3 +30,6 @@ __pycache__/
 # Logs/Data
 attendance/
 >>>>>>> b8fab78 (Add ignore rules for Python project artifacts)
+
+# macOS
+.DS_Store
